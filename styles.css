@@ -8,13 +8,13 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 120px;
+    margin-left: 50px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 120px;
+    margin-right: 50px;
 }
 
 .header_text {
